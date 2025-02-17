@@ -1,0 +1,130 @@
+body    {
+  margin-left: 20%;
+  margin-right: 20%;
+
+  }
+  
+      #barranav   {
+        color: #fafafa;   
+        height: 80px;
+        background-color: #264c6c;
+        font-size: 22.5px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+                 ul {
+                  list-style-type: none;
+                  margin: 0;
+                  padding: 10px 14px;
+                  overflow: hidden;  
+                  display: block;
+                  text-align: center;
+                  font-family: Arial, Helvetica, sans-serif;
+                  color: #fdfdfd;
+                  line-height: 1.6;
+                  font-weight: 100;
+                    }
+
+                  li {
+                  float: left;
+                  margin-left: 10px;
+                  letter-spacing: -1px;
+                  }
+
+
+      #nombre {
+        height: 110px;
+        padding-top: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 32px;
+        font-weight: bolder;
+        color: rgb(12, 83, 144);
+
+      }
+
+      #imgIES1  {           
+       
+
+
+      }
+      
+
+      
+      #cuerpo {
+        
+           
+
+      }
+        .cajaIzda1 {
+          
+                 
+          } 
+
+          .imgIzda1{
+            
+          }
+
+         .cajaIzda2 {
+         
+                   
+          } 
+  
+          .imgIzda2{
+               
+          }
+  
+          .cajaIzda3 {
+           
+                     
+            } 
+    
+            .imgIzda3{
+                 
+            }
+
+            .cajaIzda4 {
+              
+                       
+              } 
+      
+              .imgIzda4{
+                   
+              }
+
+        .cajaCentro1 {
+          
+        
+          }        
+          .imgCtro1 {
+       
+          }
+
+     
+        .cajaDcha1 {
+         
+        }
+        .imgDcha1 {
+         
+        }
+
+      hr{
+                    
+        }
+      
+
+      
+      
+      #pie   {
+        
+      }
+
+        .pieIzda {
+          
+         
+        }
+
+        .pieDcha   {
+          
+          
+      }
+
+
